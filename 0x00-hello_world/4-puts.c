@@ -1,4 +1,3 @@
-#!/bin/bash
 #include stdio.h
 /*
  * a program that print a line
