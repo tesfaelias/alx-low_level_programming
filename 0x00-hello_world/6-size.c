@@ -1,6 +1,6 @@
 #include<stdio.h>
 /**
-* main is func
+* main - Entry point
 *
 * Return: Always 0 (Success)
 */
